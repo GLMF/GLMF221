@@ -1,0 +1,2 @@
+Correction de bugs dans la gestion des flottants ("else" oublies).
+Transformation de matrice 1x1 en element simple.

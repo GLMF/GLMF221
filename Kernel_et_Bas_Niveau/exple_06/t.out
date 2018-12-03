@@ -1,0 +1,230 @@
+MAIN                 STACK EMPTY
+
+MAIN                 STACK   1   X : INT                 1
+
+MAIN                 STACK   2   Y : INT                 1
+MAIN                 STACK   1   X : INT                 2
+
+MAIN                 STACK   3   Z : INT                 1
+MAIN                 STACK   2   Y : INT                 2
+MAIN                 STACK   1   X : INT                 3
+
+MAIN                 STACK   4   T : INT                 1
+MAIN                 STACK   3   Z : INT                 2
+MAIN                 STACK   2   Y : INT                 3
+MAIN                 STACK   1   X : INT                 4
+
+MAIN                 STACK   5     : INT                 1
+MAIN                 STACK   4   T : INT                 2
+MAIN                 STACK   3   Z : INT                 3
+MAIN                 STACK   2   Y : INT                 4
+MAIN                 STACK   1   X : INT                 5
+
+MAIN                 STACK   6     : INT                 1
+MAIN                 STACK   5     : INT                 2
+MAIN                 STACK   4   T : INT                 3
+MAIN                 STACK   3   Z : INT                 4
+MAIN                 STACK   2   Y : INT                 5
+MAIN                 STACK   1   X : INT                 6
+
+MAIN                 STACK   7     : INT                 1
+MAIN                 STACK   6     : INT                 2
+MAIN                 STACK   5     : INT                 3
+MAIN                 STACK   4   T : INT                 4
+MAIN                 STACK   3   Z : INT                 5
+MAIN                 STACK   2   Y : INT                 6
+MAIN                 STACK   1   X : INT                 7
+
+MAIN                 STACK   8     : INT                 1
+MAIN                 STACK   7     : INT                 2
+MAIN                 STACK   6     : INT                 3
+MAIN                 STACK   5     : INT                 4
+MAIN                 STACK   4   T : INT                 5
+MAIN                 STACK   3   Z : INT                 6
+MAIN                 STACK   2   Y : INT                 7
+MAIN                 STACK   1   X : INT                 8
+
+MAIN                 STACK   9     : INT                 1
+MAIN                 STACK   8     : INT                 2
+MAIN                 STACK   7     : INT                 3
+MAIN                 STACK   6     : INT                 4
+MAIN                 STACK   5     : INT                 5
+MAIN                 STACK   4   T : INT                 6
+MAIN                 STACK   3   Z : INT                 7
+MAIN                 STACK   2   Y : INT                 8
+MAIN                 STACK   1   X : INT                 9
+
+MAIN                 STACK  10     : INT                 1
+MAIN                 STACK   9     : INT                 2
+MAIN                 STACK   8     : INT                 3
+MAIN                 STACK   7     : INT                 4
+MAIN                 STACK   6     : INT                 5
+MAIN                 STACK   5     : INT                 6
+MAIN                 STACK   4   T : INT                 7
+MAIN                 STACK   3   Z : INT                 8
+MAIN                 STACK   2   Y : INT                 9
+MAIN                 STACK   1   X : INT                 3
+
+MAIN                 STACK  11     : INT                 1
+MAIN                 STACK  10     : INT                 2
+MAIN                 STACK   9     : INT                 3
+MAIN                 STACK   8     : INT                 4
+MAIN                 STACK   7     : INT                 5
+MAIN                 STACK   6     : INT                 6
+MAIN                 STACK   5     : INT                 7
+MAIN                 STACK   4   T : INT                 8
+MAIN                 STACK   3   Z : INT                 9
+MAIN                 STACK   2   Y : INT                 3
+MAIN                 STACK   1   X : INT                 3 MAT
+
+MAIN                 STACK   1   X : MATRIX    [3 x 3]
+							|          1          2          3 |
+							|          4          5          6 |
+							|          7          8          9 |
+
+MAIN                 STACK   2   Y : MATRIX    [3 x 3]
+							|          1          2          3 |
+							|          4          5          6 |
+							|          7          8          9 |
+MAIN                 STACK   1   X : INT                10
+
+MAIN                 STACK   3   Z : MATRIX    [3 x 3]
+							|          1          2          3 |
+							|          4          5          6 |
+							|          7          8          9 |
+MAIN                 STACK   2   Y : INT                10
+MAIN                 STACK   1   X : INT                20
+
+MAIN                 STACK   4   T : MATRIX    [3 x 3]
+							|          1          2          3 |
+							|          4          5          6 |
+							|          7          8          9 |
+MAIN                 STACK   3   Z : INT                10
+MAIN                 STACK   2   Y : INT                20
+MAIN                 STACK   1   X : INT                30
+
+MAIN                 STACK   5     : MATRIX    [3 x 3]
+							|          1          2          3 |
+							|          4          5          6 |
+							|          7          8          9 |
+MAIN                 STACK   4   T : INT                10
+MAIN                 STACK   3   Z : INT                20
+MAIN                 STACK   2   Y : INT                30
+MAIN                 STACK   1   X : INT                40
+
+MAIN                 STACK   6     : MATRIX    [3 x 3]
+							|          1          2          3 |
+							|          4          5          6 |
+							|          7          8          9 |
+MAIN                 STACK   5     : INT                10
+MAIN                 STACK   4   T : INT                20
+MAIN                 STACK   3   Z : INT                30
+MAIN                 STACK   2   Y : INT                40
+MAIN                 STACK   1   X : INT                50
+
+MAIN                 STACK   7     : MATRIX    [3 x 3]
+							|          1          2          3 |
+							|          4          5          6 |
+							|          7          8          9 |
+MAIN                 STACK   6     : INT                10
+MAIN                 STACK   5     : INT                20
+MAIN                 STACK   4   T : INT                30
+MAIN                 STACK   3   Z : INT                40
+MAIN                 STACK   2   Y : INT                50
+MAIN                 STACK   1   X : INT                60
+
+MAIN                 STACK   8     : MATRIX    [3 x 3]
+							|          1          2          3 |
+							|          4          5          6 |
+							|          7          8          9 |
+MAIN                 STACK   7     : INT                10
+MAIN                 STACK   6     : INT                20
+MAIN                 STACK   5     : INT                30
+MAIN                 STACK   4   T : INT                40
+MAIN                 STACK   3   Z : INT                50
+MAIN                 STACK   2   Y : INT                60
+MAIN                 STACK   1   X : INT                70
+
+MAIN                 STACK   9     : MATRIX    [3 x 3]
+							|          1          2          3 |
+							|          4          5          6 |
+							|          7          8          9 |
+MAIN                 STACK   8     : INT                10
+MAIN                 STACK   7     : INT                20
+MAIN                 STACK   6     : INT                30
+MAIN                 STACK   5     : INT                40
+MAIN                 STACK   4   T : INT                50
+MAIN                 STACK   3   Z : INT                60
+MAIN                 STACK   2   Y : INT                70
+MAIN                 STACK   1   X : INT                80
+
+MAIN                 STACK  10     : MATRIX    [3 x 3]
+							|          1          2          3 |
+							|          4          5          6 |
+							|          7          8          9 |
+MAIN                 STACK   9     : INT                10
+MAIN                 STACK   8     : INT                20
+MAIN                 STACK   7     : INT                30
+MAIN                 STACK   6     : INT                40
+MAIN                 STACK   5     : INT                50
+MAIN                 STACK   4   T : INT                60
+MAIN                 STACK   3   Z : INT                70
+MAIN                 STACK   2   Y : INT                80
+MAIN                 STACK   1   X : INT                90
+
+MAIN                 STACK  11     : MATRIX    [3 x 3]
+							|          1          2          3 |
+							|          4          5          6 |
+							|          7          8          9 |
+MAIN                 STACK  10     : INT                10
+MAIN                 STACK   9     : INT                20
+MAIN                 STACK   8     : INT                30
+MAIN                 STACK   7     : INT                40
+MAIN                 STACK   6     : INT                50
+MAIN                 STACK   5     : INT                60
+MAIN                 STACK   4   T : INT                70
+MAIN                 STACK   3   Z : INT                80
+MAIN                 STACK   2   Y : INT                90
+MAIN                 STACK   1   X : INT                 3
+
+MAIN                 STACK  12     : MATRIX    [3 x 3]
+							|          1          2          3 |
+							|          4          5          6 |
+							|          7          8          9 |
+MAIN                 STACK  11     : INT                10
+MAIN                 STACK  10     : INT                20
+MAIN                 STACK   9     : INT                30
+MAIN                 STACK   8     : INT                40
+MAIN                 STACK   7     : INT                50
+MAIN                 STACK   6     : INT                60
+MAIN                 STACK   5     : INT                70
+MAIN                 STACK   4   T : INT                80
+MAIN                 STACK   3   Z : INT                90
+MAIN                 STACK   2   Y : INT                 3
+MAIN                 STACK   1   X : INT                 3 MAT
+
+MAIN                 STACK   2   Y : MATRIX    [3 x 3]
+							|          1          2          3 |
+							|          4          5          6 |
+							|          7          8          9 |
+MAIN                 STACK   1   X : MATRIX    [3 x 3]
+							|         10         20         30 |
+							|         40         50         60 |
+							|         70         80         90 |
+											   *
+
+MAIN                 STACK   1   X : MATRIX    [3 x 3]
+							|        300        360        420 |
+							|        660        810        960 |
+							|       1020       1260       1500 |
+
+MAIN                 STACK   2   Y : MATRIX    [3 x 3]
+							|        300        360        420 |
+							|        660        810        960 |
+							|       1020       1260       1500 |
+											   LAST X
+MAIN                 STACK   1   X : MATRIX    [3 x 3]
+							|         10         20         30 |
+							|         40         50         60 |
+							|         70         80         90 |
+

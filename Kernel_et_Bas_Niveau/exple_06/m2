@@ -1,0 +1,12 @@
+#!/bin/bash
+
+cat <<- EOF | ./rpn
+	1 1 1 1 2 2 mat
+	enter
+	enter
+	enter
+	enter
+	2 2 mat
+	enter
+	*
+EOF
